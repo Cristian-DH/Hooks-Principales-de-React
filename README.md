@@ -1,7 +1,5 @@
-# Hooks-Principales-de-React
-Breve explicación de los hooks mas usados de react
 
-# Guía Completa de los 12 Hooks Más Utilizados de React
+# Guía básica de los 12 Hooks Más Utilizados de React
 
 ## Introducción
 
